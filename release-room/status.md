@@ -2,5 +2,5 @@
 
 Wersja: 1.0
 Stan wydania: ZABLOKOWANE
-Decyzja wdrożeniowa: NIEUSTALONA
+Decyzja wdrożeniowa: WDRAZAMY W PIATEK
 Koordynator: dwormateusz-cmd
