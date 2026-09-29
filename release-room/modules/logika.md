@@ -1,5 +1,5 @@
 # Moduł logika
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: LOGIN_OSOBY_B
+Stan: GOTOWY
+Opis zmiany: Dodano walidacje danych wejsciowych
