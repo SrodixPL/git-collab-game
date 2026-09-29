@@ -3,3 +3,5 @@
 Odpowiedzialny: NIEPRZYDZIELONY
 Stan: NIEGOTOWY
 Opis zmiany: BRAK
+Koordynator: dwormateusz-cmd
+
